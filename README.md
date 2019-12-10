@@ -10,3 +10,4 @@ Jano Roze
 
 
 ![App Demo Gif](beispiel.gif)
+![App Demo Gif](beispiel2.gif)

@@ -6,3 +6,7 @@ All unique functionality that exists in the original App has been stripped out a
 structure, methodology, etc remains for use as a working example of a previous project
 
 Jano Roze
+
+
+
+![App Demo Gif](beispiel.gif)

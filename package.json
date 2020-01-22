@@ -28,7 +28,7 @@
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
     "react": "16.12.0",
-    "react-native": "~0.61.5",
+    "react-native": "~0.59.0",
     "react-native-button": "^2.4.0",
     "react-native-custom-radio-group": "^1.0.1",
     "react-native-elements": "^1.2.7",
